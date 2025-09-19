@@ -1,0 +1,15 @@
+print("Benim Adım : Salih Enes")
+print("Benim Soyadım : YELKEN")
+print("Yaşım :  19")
+print("Kursa Katılma Durumum :  True")
+print("Kursa Katılma Oranım :  0.95")
+print("Benim adım Salih Enes, soyadım YELKEN, yaşım 19, kursa katılma durumum True, katılım oranım 0.95")
+
+print("----------------")
+
+print("Benim Adım :", "Salih Enes")
+print("Benim Soyadım :", "YELKEN")
+print("Yaşım :", 19)
+print("Kursa Katılma Durumum :", True)
+print("Kursa Katılma Oranım :", 0.95)
+print("Benim adım Salih Enes,", " soyadım YELKEN, yaşım" ",19,", " kursa katılma durumum, True, katılım oranım", 0.95)
